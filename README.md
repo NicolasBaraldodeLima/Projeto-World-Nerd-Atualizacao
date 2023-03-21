@@ -3,5 +3,5 @@ Elaboração de uma página inicial de web-site em que é utilizado a biblioteca
 
 O GithubPages não suporta projetos com mais de 25 MB, o que deixou o resultado do deploy um pouco incompleto. Contudo, a visualização está satisfatória.
 
-SIC: não coloquei responsividade porque o foco residiu na funcionalidade e na codificação. 
+SIC: não coloquei responsividade porque o foco residiu na funcionalidade e na codificação. Para melhor visualizá-lo, use um computador ou notebook.
 
